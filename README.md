@@ -21,5 +21,5 @@ A responsive React.js dashboard for managing people/employees with a clean, mode
 
 1. **Clone the repository**
    ```bash
-   git clone 
-   cd 
+   git clone <https://github.com/Khalidfayaz/frontend-practical>
+   cd fronted-practical
